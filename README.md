@@ -24,6 +24,7 @@ The framework integrates three modules (details in the manuscript):
 | Inference / evaluation entry (`main.py`, `engine.py`) | Available |
 | Core modules (`models/hse_cdr.py`, `models/transformers.py`) | Available |
 | IMEU-related code | **Not uploaded yet** (will be updated later) |
+| CLIP-related code | **Not uploaded yet** (will be updated later) |
 | Ablation / analysis automation | **Released in stages** |
 | Pretrained checkpoints | **Upon request** (see below) |
 
@@ -54,6 +55,7 @@ CHECKPOINT_PATH=checkpoints/UV/ckpt_xxx.pt bash scripts/eval/UV/eval.sh
 
 - **In stages:** remaining supporting code and ablation/analysis tools will be updated in this repository.
 - **IMEU:** related code has not been uploaded yet and will be updated later.
+- **CLIP:** related code has not been uploaded yet and will be updated later.
 - **Checkpoints:** available from the corresponding author upon reasonable request for academic research.
 - **For peer review:** complete implementation is available upon request through the submission system (anonymous package if required).
 
